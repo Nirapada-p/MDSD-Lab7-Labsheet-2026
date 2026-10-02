@@ -975,9 +975,19 @@ class ListingDraft {
 
 > ✅ **Checkpoint 4.1** รันแอปแล้วทดสอบเลือกภาพสินค้าจริง กดปุ่ม "ให้ AI ช่วยแนะนำ" ถ่ายภาพหน้าจอผลลัพธ์ที่ AI วิเคราะห์ได้ (title/category/description) ทดสอบซ้ำกับภาพสินค้าอย่างน้อย 3 ภาพที่ต่างกัน แนบภาพหน้าจอทั้ง 3 กรณี 
 
-```text
-บันทึกผลลัพธ์ที่นี่
-```
+### ครั้งที่ 1
+
+<img width="426" height="970" alt="image" src="https://github.com/user-attachments/assets/05082ee5-3e7a-4da3-a868-fb9aebef117f" />
+
+### ครั้งที่ 2
+
+<img width="436" height="962" alt="image" src="https://github.com/user-attachments/assets/2d19ca4e-1d9f-4bb2-829f-31f982d45b3e" />
+
+### ครั้งที่ 3
+
+<img width="433" height="966" alt="image" src="https://github.com/user-attachments/assets/120847a8-b665-4357-8921-ea4f47aedeac" />
+
+
 ---
 
 ## ส่วนที่ 5: ออกแบบหน้าจอตรวจทานและแก้ไขก่อนยืนยัน (Human-in-the-loop)
