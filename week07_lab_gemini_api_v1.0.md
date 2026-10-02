@@ -516,7 +516,10 @@ flutter run
 
 > ✅ **Checkpoint 1.2** ถ่ายภาพหน้าจอที่แสดงการตั้งค่า Structured Output และผลลัพธ์ที่ได้ อธิบายว่าผลลัพธ์ที่ได้ต่างจากตอนไม่เปิด Structured Output ในขั้นตอน 1.1 อย่างไร (อ้างอิงบทหนังสือเรียนหัวข้อ 7.4)
 
+<img width="650" height="232" alt="image" src="https://github.com/user-attachments/assets/27b27e59-8585-4690-ad68-29dab3c6d81c" />
 
+```ไม่เปิด Structured Output ดังนั้นรูปแบบ JSON ถูกควบคุมด้วย คำสั่งใน Prompt ส่วน เปิด Structured Output เรากำหนด Schema โดยตรงว่า Output ต้องมีอะไรบ้างและแต่ละ field เป็น String
+ดังนั้นรูปแบบผลลัพธ์ถูกกำหนดด้วย Schema ของระบบ Structured Output เพิ่มเข้ามา ```
 
 ---
 
