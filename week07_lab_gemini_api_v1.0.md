@@ -497,9 +497,15 @@ flutter run
 
 > ✅ **Checkpoint 1.1** ถ่ายภาพหน้าจอ Google AI Studio ที่แสดงรูปภาพที่แนบ Prompt ที่ใช้ และผลลัพธ์ JSON ที่ได้ จากนั้นทดลองรันซ้ำอีก 2 ครั้งด้วยภาพและ Prompt เดิม
 
-```text
-บันทึกรูปผลลัพธ์ที่นี่
-```
+
+<img width="1024" height="1024" alt="คีย์บอด" src="https://github.com/user-attachments/assets/21a9151f-97cb-4615-bac1-7f79bcc76b2a" />
+
+<img width="665" height="665" alt="image" src="https://github.com/user-attachments/assets/7aec1205-f97b-4da4-9c53-ec8cd3265a7a" />
+
+<img width="652" height="242" alt="image" src="https://github.com/user-attachments/assets/0d83f1fb-d54e-4b6b-9c1b-ec2e35a21e62" />
+
+<img width="655" height="353" alt="image" src="https://github.com/user-attachments/assets/82ed82bb-a02c-448c-9647-fce9e8e1648c" />
+
 
 ### ขั้นตอนที่ 1.2: ทดลองเปิดใช้ Structured Output ใน AI Studio
 
@@ -507,9 +513,7 @@ flutter run
 
 > ✅ **Checkpoint 1.2** ถ่ายภาพหน้าจอที่แสดงการตั้งค่า Structured Output และผลลัพธ์ที่ได้ อธิบายว่าผลลัพธ์ที่ได้ต่างจากตอนไม่เปิด Structured Output ในขั้นตอน 1.1 อย่างไร (อ้างอิงบทหนังสือเรียนหัวข้อ 7.4)
 
-```text
-บันทึกผลลัพธ์ที่นี่
-```
+
 
 ---
 
