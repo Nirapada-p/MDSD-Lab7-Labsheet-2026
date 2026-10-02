@@ -501,13 +501,16 @@ flutter run
 <img width="1024" height="1024" alt="คีย์บอด" src="https://github.com/user-attachments/assets/21a9151f-97cb-4615-bac1-7f79bcc76b2a" />
 
 ### ครั้งที่ 1
+
 <img width="1131" height="180" alt="image" src="https://github.com/user-attachments/assets/0feff95e-438d-47c8-8cdf-b61a5cfa8d2e" />
 
 ### ครั้งที่ 2
+
 <img width="1150" height="200" alt="image" src="https://github.com/user-attachments/assets/a360353e-d0e7-432d-bd54-2ed9c47636c8" />
 
 
 ### ครั้งที่ 3
+
 <img width="1171" height="192" alt="image" src="https://github.com/user-attachments/assets/2ac030d9-dd02-4413-9917-93e71aee2379" />
 
 
@@ -517,6 +520,8 @@ flutter run
 ในแผงตั้งค่าฝั่งขวาของ Google AI Studio เปิดตัวเลือก **Structured Output** เลือกที่ Visual Editor แล้วกำหนด Schema ให้ตรงกับ Field `title`, `category`, `description` ตามที่ใช้ใน Prompt (เลือกประเภทเป็น String ทั้งหมด) รันอีกครั้งด้วยภาพเดิม
 
 > ✅ **Checkpoint 1.2** ถ่ายภาพหน้าจอที่แสดงการตั้งค่า Structured Output และผลลัพธ์ที่ได้ อธิบายว่าผลลัพธ์ที่ได้ต่างจากตอนไม่เปิด Structured Output ในขั้นตอน 1.1 อย่างไร (อ้างอิงบทหนังสือเรียนหัวข้อ 7.4)
+
+<img width="1023" height="787" alt="image" src="https://github.com/user-attachments/assets/b3aca731-1f40-4fa4-9f92-ca86d31cd0ff" />
 
 <img width="650" height="232" alt="image" src="https://github.com/user-attachments/assets/27b27e59-8585-4690-ad68-29dab3c6d81c" />
 
