@@ -497,13 +497,16 @@ flutter run
 
 > ✅ **Checkpoint 1.1** ถ่ายภาพหน้าจอ Google AI Studio ที่แสดงรูปภาพที่แนบ Prompt ที่ใช้ และผลลัพธ์ JSON ที่ได้ จากนั้นทดลองรันซ้ำอีก 2 ครั้งด้วยภาพและ Prompt เดิม
 
-
+### ภาพสินค้า
 <img width="1024" height="1024" alt="คีย์บอด" src="https://github.com/user-attachments/assets/21a9151f-97cb-4615-bac1-7f79bcc76b2a" />
 
+### ครั้งที่ 1
 <img width="665" height="665" alt="image" src="https://github.com/user-attachments/assets/7aec1205-f97b-4da4-9c53-ec8cd3265a7a" />
 
+### ครั้งที่ 2
 <img width="652" height="242" alt="image" src="https://github.com/user-attachments/assets/0d83f1fb-d54e-4b6b-9c1b-ec2e35a21e62" />
 
+### ครั้งที่ 3
 <img width="655" height="353" alt="image" src="https://github.com/user-attachments/assets/82ed82bb-a02c-448c-9647-fce9e8e1648c" />
 
 
