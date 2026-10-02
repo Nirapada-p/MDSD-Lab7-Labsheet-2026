@@ -501,13 +501,15 @@ flutter run
 <img width="1024" height="1024" alt="คีย์บอด" src="https://github.com/user-attachments/assets/21a9151f-97cb-4615-bac1-7f79bcc76b2a" />
 
 ### ครั้งที่ 1
-<img width="665" height="665" alt="image" src="https://github.com/user-attachments/assets/7aec1205-f97b-4da4-9c53-ec8cd3265a7a" />
+<img width="1131" height="180" alt="image" src="https://github.com/user-attachments/assets/0feff95e-438d-47c8-8cdf-b61a5cfa8d2e" />
 
 ### ครั้งที่ 2
-<img width="652" height="242" alt="image" src="https://github.com/user-attachments/assets/0d83f1fb-d54e-4b6b-9c1b-ec2e35a21e62" />
+<img width="1150" height="200" alt="image" src="https://github.com/user-attachments/assets/a360353e-d0e7-432d-bd54-2ed9c47636c8" />
+
 
 ### ครั้งที่ 3
-<img width="655" height="353" alt="image" src="https://github.com/user-attachments/assets/82ed82bb-a02c-448c-9647-fce9e8e1648c" />
+<img width="1171" height="192" alt="image" src="https://github.com/user-attachments/assets/2ac030d9-dd02-4413-9917-93e71aee2379" />
+
 
 
 ### ขั้นตอนที่ 1.2: ทดลองเปิดใช้ Structured Output ใน AI Studio
