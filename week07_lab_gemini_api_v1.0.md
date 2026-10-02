@@ -523,11 +523,13 @@ flutter run
 
 <img width="1023" height="787" alt="image" src="https://github.com/user-attachments/assets/b3aca731-1f40-4fa4-9f92-ca86d31cd0ff" />
 
-<img width="650" height="232" alt="image" src="https://github.com/user-attachments/assets/27b27e59-8585-4690-ad68-29dab3c6d81c" />
+<img width="1217" height="761" alt="image" src="https://github.com/user-attachments/assets/aecbf129-05da-4841-b9da-047ef5d424b2" />
 
-```ไม่เปิด Structured Output ดังนั้นรูปแบบ JSON ถูกควบคุมด้วย คำสั่งใน Prompt ส่วน เปิด Structured Output เรากำหนด Schema โดยตรงว่า Output ต้องมีอะไรบ้างและแต่ละ field เป็น String
-ดังนั้นรูปแบบผลลัพธ์ถูกกำหนดด้วย Schema ของระบบ Structured Output เพิ่มเข้ามา ```
 
+```
+ไม่เปิด Structured Output ดังนั้นรูปแบบ JSON ถูกควบคุมด้วย คำสั่งใน Prompt ส่วน เปิด Structured Output เรากำหนด Schema โดยตรงว่า Output ต้องมีอะไรบ้างและแต่ละ field เป็น String
+ดังนั้นรูปแบบผลลัพธ์ถูกกำหนดด้วย Schema ของระบบ Structured Output เพิ่มเข้ามา
+```
 ---
 
 ## ส่วนที่ 2: สร้าง GeminiService พื้นฐานสำหรับ Text Generation
